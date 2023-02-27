@@ -16,6 +16,6 @@ jobs:
     - name: tag git
       uses: dmyst3/tag-repo@main
       with:
-        tag_name: 'v1.20.0'
+        tag_name: 'v1.40.0'
         tag_message: 'test-tag'
    
